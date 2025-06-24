@@ -5,6 +5,7 @@ const Navbar = () => {
     <nav>
       <div>
         <a href="#" className="flex items-center gap-2">
+          <img src="/images/logo.png" alt="logo" />
           Velvet Pour
         </a>
         <ul>
