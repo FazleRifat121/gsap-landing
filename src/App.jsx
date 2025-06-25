@@ -8,7 +8,7 @@ import Art from "./components/Art";
 gsap.registerPlugin(ScrollTrigger, SplitText);
 const App = () => {
   return (
-    <main className="overflow-hidden">
+    <main className="overflow-x-hidden">
       <Navbar />
       <Hero />
       <Cocktails />
