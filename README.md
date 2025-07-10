@@ -35,30 +35,16 @@ An elegant, minimalist frontend project for showcasing luxury beverage branding 
 
 ---
 
-## 🧩 Folder Structure 
-
-```bash
-velvetpours/
-├── assets/
-│   └── images/
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── index.html
-└── ...
-
 ## 🛠️ Getting Started
-🔧 Local Setup
+
+### 🔧 Local Setup
+
 To run it locally:
 
-bash```
-Copy
-Edit
+bash
 git clone https://github.com/yourusername/velvetpours.git
 cd velvetpours
-open index.html # or use Live Server in VS Code
-No build tools or dependencies required.
+open index.html  # or use Live Server in VS Code
 
 🌐 Deployment
 This project is deployed using Netlify.
