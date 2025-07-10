@@ -27,8 +27,8 @@ const Menu = () => {
     const paralaxTimeLine = gsap.timeline({
       scrollTrigger: {
         trigger: "#menu",
-        start: "top 20%",
-        end: "bottom ",
+        start: "top 30%",
+        end: "bottom 80%",
         scrub: true,
       },
     });
