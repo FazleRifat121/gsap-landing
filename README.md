@@ -65,9 +65,9 @@ Deploy 🚀
 
 🧑‍💻 Author
 Fazle Rifat
-🎯 Portfolio
-💼 LinkedIn
-📫 fazlerifatofficial@gmail.com
+🎯 [Portfolio](https://fazle.netlify.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fazle-rifat-660bb2328/)  
+📫 fazlerifatofficial@gmail.com  
 
 📜 License
 This project is open-source and available under the MIT License.
