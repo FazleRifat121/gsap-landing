@@ -2,7 +2,7 @@
 markdown
 Copy
 Edit
-# 🌸 Velvet Pours &nbsp;![Netlify Status](https://api.netlify.com/api/v1/badges/86f8eec3-c3b5-49cb-b99b-75ef07d2d9f3/deploy-status)
+# 🌸 Velvet Pours &nbsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/4aa6fd79-dc04-4d84-90f9-4cb1898dcd3d/deploy-status)](https://app.netlify.com/projects/velvetpours/deploys)
 
 **Live Preview → [velvetpours.netlify.app](https://velvetpours.netlify.app/)**  
 An elegant, minimalist frontend project for showcasing luxury beverage branding with a clean UI and modern animations.
