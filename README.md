@@ -29,7 +29,7 @@ Velvet Pours is a beautifully crafted frontend project that presents elegant and
 ## 📸 Screenshots
 
 <!-- Add screenshots if you have them -->
-![Homepage Screenshot](https://via.placeholder.com/1200x600?text=Velvet+Pours+Homepage)
+![Homepage Screenshot](https://i.ibb.co/FqCtjJpV/Screenshot-4.png)
 
 ---
 
