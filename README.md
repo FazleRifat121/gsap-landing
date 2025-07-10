@@ -11,7 +11,7 @@ An elegant, minimalist frontend project for showcasing luxury beverage branding 
 
 ## 📸 Preview
 
-![Velvet Pours Screenshot]([https://via.placeholder.com/1200x600?text=Velvet+Pours+Homepage](https://i.ibb.co/FqCtjJpV/Screenshot-4.png))
+![Velvet Pours Screenshot](https://i.ibb.co/FqCtjJpV/Screenshot-4.png)
 
 ---
 
