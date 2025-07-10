@@ -1,12 +1,70 @@
-# React + Vite
+# 🌸 Velvet Pours
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Site 👉 [velvetpours.netlify.app](https://velvetpours.netlify.app/)**
 
-Currently, two official plugins are available:
+Velvet Pours is a beautifully crafted frontend project that presents elegant and artistic beverage branding. Designed with modern UI principles, responsive layout, and smooth transitions — it offers a premium look and feel suitable for luxury drink products.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Clean and modern design
+- 📱 Fully responsive on all devices
+- ⚡ Fast performance with optimized assets
+- ✨ Smooth hover and scroll animations
+- 💡 Lightweight, static frontend (deployed via Netlify)
+
+---
+
+## 🚀 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Tailwind CSS** (or specify if used another framework)
+- **GSAP** *(if used for animation)*
+
+---
+
+## 📸 Screenshots
+
+<!-- Add screenshots if you have them -->
+![Homepage Screenshot](https://via.placeholder.com/1200x600?text=Velvet+Pours+Homepage)
+
+---
+
+## 📁 Folder Structure (Optional)
+
+```bash
+velvetpours/
+├── assets/
+├── components/
+├── index.html
+├── styles/
+└── ...
+🌐 Deployment
+This project is hosted on Netlify.
+To deploy your own:
+
+Fork this repository.
+
+Push your code to GitHub.
+
+Connect your repo to Netlify.
+
+Done!
+
+🧑‍💻 Author
+Fazle Rifat
+🌐 Portfolio
+💼 LinkedIn
+📧 fazlerifatofficial@gmail.com
+
+⭐️ Show Your Support
+If you like this project, consider giving it a ⭐️ on GitHub or sharing it!
+
+vbnet
+Copy
+Edit
+
+Would you like me to include badges (like Netlify, GitHub stars, or lice
