@@ -11,7 +11,7 @@ An elegant, minimalist frontend project for showcasing luxury beverage branding 
 
 ## 📸 Preview
 
-![Velvet Pours Screenshot](https://via.placeholder.com/1200x600?text=Velvet+Pours+Homepage)
+![Velvet Pours Screenshot]([https://via.placeholder.com/1200x600?text=Velvet+Pours+Homepage](https://i.ibb.co/FqCtjJpV/Screenshot-4.png))
 
 ---
 
@@ -35,7 +35,7 @@ An elegant, minimalist frontend project for showcasing luxury beverage branding 
 
 ---
 
-## 🧩 Folder Structure (optional)
+## 🧩 Folder Structure 
 
 ```bash
 velvetpours/
@@ -47,11 +47,12 @@ velvetpours/
 │   └── script.js
 ├── index.html
 └── ...
-🛠️ Getting Started
+
+## 🛠️ Getting Started
 🔧 Local Setup
 To run it locally:
 
-bash
+bash```
 Copy
 Edit
 git clone https://github.com/yourusername/velvetpours.git
