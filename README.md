@@ -42,7 +42,7 @@ An elegant, minimalist frontend project for showcasing luxury beverage branding 
 To run it locally:
 
 bash
-git clone https://github.com/yourusername/velvetpours.git
+git clone https://github.com/FazleRifat121/gsap-landing.git
 cd velvetpours
 open index.html  # or use Live Server in VS Code
 
