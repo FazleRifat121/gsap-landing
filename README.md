@@ -1,7 +1,3 @@
-
-markdown
-Copy
-Edit
 # 🌸 Velvet Pours &nbsp;[![Netlify Status](https://api.netlify.com/api/v1/badges/4aa6fd79-dc04-4d84-90f9-4cb1898dcd3d/deploy-status)](https://app.netlify.com/projects/velvetpours/deploys)
 
 **Live Preview → [velvetpours.netlify.app](https://velvetpours.netlify.app/)**  
